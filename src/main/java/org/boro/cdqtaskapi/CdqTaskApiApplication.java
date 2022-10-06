@@ -1,4 +1,4 @@
-package org.b0ro.cdqtaskapi;
+package org.boro.cdqtaskapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
